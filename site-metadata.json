@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Go Grab Store",
         "has_nav": true,
         "nav_links": [
             {
@@ -12,24 +12,10 @@
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
+                "label": "Login",
+                "url": "https://app.gograbstore.com",
+                "style": "primary",
+                "new_window": true
             }
         ]
     },
@@ -39,8 +25,8 @@
                 "type": "footer_text",
                 "image": "images/logo-alt.svg",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "image_alt": "GoGrabStore logo",
+                "content": "Go and Grab your next e-commerce store."
             },
             {
                 "type": "footer_nav",
@@ -52,14 +38,10 @@
                         "style": "link"
                     },
                     {
-                        "label": "Blog",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
+                        "label": "Login",
+                        "url": "https://app.gograbstore.com",
+                        "style": "link",
+                        "new_window": true
                     },
                     {
                         "label": "Contact",
@@ -129,7 +111,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; Go Grab Store by Truemark. All rights reserved."
     },
     "title": "Azimuth"
 }
